@@ -30,4 +30,10 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
     </style>
+
+    <!-- Stle for the category tabs -->
+    <style name="CustomTabs">
+        <item name="tabIndicatorColor">#FFFFFF</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+    </style>
 </resources>

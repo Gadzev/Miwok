@@ -39,21 +39,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7daede5e8d8384c2bbe378b14aed245a46d86af">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f42013c339f93f1b62596fdc37e4d2589fabacff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/lignux/.android/build-cache/3917bb054d74928f4627d9d06f9abd5454372526/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
         <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad20ab3aeb48d85736f096bfa44e473f76fbc0ce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00ae808091ef8e3e308d23f02ab48eb5a9a07093">
-        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f42013c339f93f1b62596fdc37e4d2589fabacff/classes.dex" />
     </item>
     <item
         is-multidex="true"
