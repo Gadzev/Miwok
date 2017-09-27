@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/adf67ee96e5bd8fde19359cea9fee0acfde085a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9689aeeac5c18a05add8dc589a02ad784bf14183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/76ea45f7bedfec23479e3ca38879794b000d799b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45677bed4323c33463153228f47f5f17d02e7e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_63cd44b5ba83a161c6909cdf886c96006ad5f9cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/99c1a937df77ec81ebc1ff911874e09dd46a32ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4cbb4e1c4e45af5c6711f68621973251d9ea14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/3917bb054d74928f4627d9d06f9abd5454372526/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad20ab3aeb48d85736f096bfa44e473f76fbc0ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00ae808091ef8e3e308d23f02ab48eb5a9a07093">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f42013c339f93f1b62596fdc37e4d2589fabacff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/80ba3503b54200d053a56c0d6e4e495798414f8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7236960620b954336a514e3b4ce32d624bb09d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/99c1a937df77ec81ebc1ff911874e09dd46a32ea/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e4ce4b9e4ef88e9f3def6619c37554ddcd0a8827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4599f14ae60d61fe2a605fca1205c0955ef2275e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lignux/.android/build-cache/715af3058ea14efce32aa10dbe5175dda8523073/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/lignux/AndroidStudioProjects/ud839_Miwok/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ed1e95f911909758cb48dd6d9a4b590f1817e5e/classes.dex" />
+    </item>
+
+</items>
